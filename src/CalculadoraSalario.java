@@ -4,14 +4,19 @@ import java.text.DecimalFormat;
 public class CalculadoraSalario extends Funcionario{
 
     public static void main(String[] args) {
+        // Cria um novo funcionário
         Funcionario funcionario = new Funcionario();
         Scanner input = new Scanner(System.in);
 
         System.out.print("Nome do funcionário: ");
+        // Salva o novo funcionário
         funcionario.setNomeFuncionario(input.nextLine());
 
-        System.out.print("Salário: R$");
+        System.out.print("Salário bruto: R$");
+        // Salva o salário bruto
         funcionario.setSalarioBruto(input.nextDouble());
+
+        // Calcula os descontos sob o salário bruto
         Discounts.calculateSalaryWithDiscounts(funcionario);
 
         System.out.println("\nInformações salariais do(a) funcionário(a) " + funcionario.getNomeFuncionario() + ": ");

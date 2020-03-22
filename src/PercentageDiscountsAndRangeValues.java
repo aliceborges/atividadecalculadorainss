@@ -4,6 +4,7 @@ import java.util.List;
 import java.util.Map;
 
 public class PercentageDiscountsAndRangeValues {
+    // Arrays HASH com no index o desconto, e no valor, uma lista do range entre os valores de salários
     public static Map<Double, List<Double>> INSS() {
         // Hash com todas as informações de faixas salariais e taxas de desconto do INSS
         Map<Double, List<Double>> percentageDiscountAndRangeValues = new HashMap<Double, List<Double>>();
