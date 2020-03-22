@@ -1,6 +1,6 @@
 # Calculadora de Salário Líquido
 
-###Atividade proposta
+### Atividade proposta
 Car*s devs!
 
 Sou Gisely da empresa, de RH Matrix, estou tendo dificuldades de manuseio de realizar
