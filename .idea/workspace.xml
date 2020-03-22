@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3057ec63-81d7-42f6-a97b-d4a75178c0b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtividadeCalculadoraExercicio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AtividadeCalculadoraExercicio/CalculadoraSalario.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CalculadoraSalario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Discounts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PercentageDiscountsAndRangeValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AtividadeCalculadoraExercicio/CalculadoraSalario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AtividadeCalculadoraExercicio/CalculadoraSalario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CalculadoraSalario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CalculadoraSalario.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,21 +72,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1320" height="172" key="GridCell.Tab.0.bottom" timestamp="1584822403497">
+    <state x="491" y="84" width="374" height="633" key="#com.intellij.ide.util.MemberChooser" timestamp="1584887894184">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="172" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1584822403497" />
-    <state width="1320" height="172" key="GridCell.Tab.0.center" timestamp="1584822403496">
+    <state x="491" y="84" width="374" height="633" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741@0.27.1366.741" timestamp="1584887894184" />
+    <state width="1320" height="175" key="GridCell.Tab.0.bottom" timestamp="1584888406584">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="172" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1584822403496" />
-    <state width="1320" height="172" key="GridCell.Tab.0.left" timestamp="1584822403495">
+    <state width="1320" height="175" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1584888406584" />
+    <state width="1320" height="175" key="GridCell.Tab.0.center" timestamp="1584888406583">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="172" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1584822403495" />
-    <state width="1320" height="172" key="GridCell.Tab.0.right" timestamp="1584822403497">
+    <state width="1320" height="175" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1584888406583" />
+    <state width="1320" height="175" key="GridCell.Tab.0.left" timestamp="1584888406583">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1320" height="172" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1584822403497" />
+    <state width="1320" height="175" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1584888406583" />
+    <state width="1320" height="175" key="GridCell.Tab.0.right" timestamp="1584888406584">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="175" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1584888406584" />
   </component>
 </project>
